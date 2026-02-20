@@ -38,6 +38,11 @@
 	--color-secondary-900: oklch(30% 0.1 30);
 	--color-secondary-950: oklch(20% 0.11 30);
 
-	--font-body: var(--font-family), var(--font-fallback);
-	--font-display: var(--font-body);
+	--font-body: 'Inter', sans-serif;
+	--font-display: 'Inter', sans-serif;
+	
+	--color-brand-pink: #E91E63;
+	--color-brand-bg: #FFFFFF;
+	--color-brand-text: #111827;
+	--color-brand-muted: #6B7280;
 }
